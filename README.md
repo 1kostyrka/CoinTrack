@@ -44,7 +44,6 @@ CoinTrack is an iOS app for tracking cryptocurrency prices with real-time candle
 
 ## 🚀 Installation
 
-1. Clone the repository:
    ```bash
    git clone https://github.com/1kostyrka/CoinTrack.git
    open ios-crypto.xcworkspace
