@@ -1,6 +1,6 @@
 # CoinTrack
 
-CoinTrack is an iOS app for tracking cryptocurrency prices with real-time candlestick charts. The app integrates CoinGecko API for historical data and Binance WebSocket for real-time updates.
+CoinTrack is an iOS app for tracking cryptocurrency prices with real-time charts. The app integrates CoinGecko API for historical data and Binance WebSocket for real-time updates.
 
 ---
 
